@@ -1,6 +1,10 @@
 {
   "expo": {
     "scheme": "acme",
-    "web": { "bundler": "metro" }
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "kitchen-timer",
+    "slug": "kitchen-timer"
   }
 }
